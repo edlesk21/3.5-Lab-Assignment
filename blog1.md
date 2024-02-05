@@ -1,7 +1,7 @@
 ---
 layout: layout.liquid
-title: About
+title: Blog 1
 ---
 
-# About **Our Mission**
+# Blog Post 1: **Exploring Distant Worlds**
 <img class="about" alt="pine" src="/images/pine.png" width="50" />
