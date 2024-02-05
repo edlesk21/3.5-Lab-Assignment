@@ -4,4 +4,4 @@ title: About
 ---
 
 # About **Our Mission**
-<footer> </footer>
+
